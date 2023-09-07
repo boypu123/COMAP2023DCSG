@@ -1,7 +1,7 @@
 <template>
     <div class="about">
       <div id="mainText">COMAP HiMCM <br> & MidMCM <br> @ DCSG 2023</div>
-      <img src="src\assets\calculator.jpg">
+      <img src="src/assets/calculator.jpg">
     </div>
 
 </template>
