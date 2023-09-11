@@ -2,20 +2,21 @@
     <div class="info">
         <div class="infoContent">
             <h2>SIGN UP DEADLINE SEP 15TH 2023. PLEASE CHECK THIS WEBPAGE REGULARLY FOR UPDATES.</h2><br>
+            <h2>INTRODUCTION PRESENTATION TO THOSE OF YOU WHO ARE UNSURE. MORE DETAILS TO FOLLOW. MESSAGE PU HONGWEN IF YOU WANT TO PARTICIPATE. </h2><br>
             <h2> What is HiMCM/MidMCM?</h2>
             <p>
                 COMAP'S High School Mathematical Contest in Modeling (HiMCM) 
                 and Middle Mathematical Contest in Modeling (MidMCM) 
                 are international contests designed to provide high school and 
                 middle school/level students with the opportunity to work as team members 
-                to engage and improve their modeling, problem solving, and writing skills. 
+                to engage and improve their modelling, problem-solving, and writing skills. 
                 Contest problems are accessible using the mathematics taught at the 
                 respective levels of the contests. <br>
-                In this competition, you are required to complete an <b>essay</b> during the 14 days window. 
+                In this competition, you are required to complete an <b>essay</b> during the 14-day window. 
                 The essay needs to be on a question selected on the first day of the contest. 
                 The contest period is November 1st to November 14th. 
                 <br>
-                <b>HiMCM</b>: There are two questions to be choose from, Question A and Question B. <br>
+                <b>HiMCM</b>: There are two questions to choose from, Question A and Question B. <br>
                 For <b>Y11, Y12, Y13 students. </b>
                 <br>
                 <b>MidMCM</b>: There is only one question. Question C. <br>
@@ -24,7 +25,7 @@
             <br>
             <h2>What is mathematical modelling?</h2>
             <p>
-                Mathematical modelling is a skill that applies mathematical knowledge into real world context. 
+                Mathematical modelling is a skill that applies mathematical knowledge into real-world context. 
                 In mathematical modelling, you are required to use relevant mathematical knowledge, as well as some extra knowledge in the related 
                 fields, to build a mathematical equation. You may be asked to predict what is going to happen next, or the trend of what has been happening.
                 <br> <br>
@@ -37,7 +38,7 @@
                 Some possible prerequisites are:<br>
 
                 Basic Python Programming Skills:<br>
-                -	Including but not limited to data types, control statements, functions (All the syllabus req. in IGCSE Computer Science 0478)<br>
+                -	Including but not limited to data types, control statements, and functions (All the syllabus req. in IGCSE Computer Science 0478)<br>
                 -	NumPy<br>
                 -	Pandas<br>
                 -	Visualisation<br>
@@ -76,7 +77,7 @@
             </p> <br>
             <h2>How do I sign up?</h2>
             <p>
-                To sign up, you need a group of maximum four. <br>
+                To sign up, you need a group of a maximum of four. <br>
                 You can do it as well even if you don't have a group yet. You can choose the allocate option to let us allocate you a group.<br>
                 You can fill in this digital form:
                 <a href="https://forms.office.com/r/fiZWrCVu5X">Online registration</a><br>
